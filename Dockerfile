@@ -1,4 +1,4 @@
-FROM chef/chef:18.0.132-arm64
+FROM ubuntu:24.10
 
 RUN uname -a
 
